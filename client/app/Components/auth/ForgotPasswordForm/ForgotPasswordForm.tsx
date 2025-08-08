@@ -55,5 +55,3 @@ function ForgotPasswordForm() {
 }
 
 export default ForgotPasswordForm;
-
-without any formatting:
